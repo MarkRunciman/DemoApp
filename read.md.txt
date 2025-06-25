@@ -1,9 +1,0 @@
-- Deploy /frontend as your static app.
-- Deploy /api as your Azure Functions backend.
-- Set your Azure SQL connection string as environment variables for the API.
-- Configure Azure AD B2C and set up user roles for admin access.
-
---------------------------------------------------------------------------------
-This is a working starter for your repo at C:\Azure\Projects\NewDemoWebApp.
-Expand each component and function as needed for your business logic.
-*/
